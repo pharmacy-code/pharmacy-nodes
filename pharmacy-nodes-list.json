@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "name": "Pharmacy",
+      "url": "sync.pharmacy-coin.org",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Pharmacy-2",
+      "url": "sync-2.pharmacy-coin.org",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Pharmacy-3",
+      "url": "sync-3.pharmacy-coin.org",
+      "port": 80,
+      "ssl": false,
+      "cache": true
+    }
+  ]
+}
